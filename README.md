@@ -1,50 +1,91 @@
-# Blinkit-Sales-and-Growth-Dashboard-using-Power-BI
-The Blinkit Sales and Growth Dashboard is a business intelligence solution built using Power BI to analyze and visualize the sales performance and growth metrics of Blinkit, a fast-growing quick-commerce platform. This project aims to provide real-time, data-driven insights to help stakeholders make informed business decisions. 
-# 🔷 Blinkit Sales and Growth Dashboard using Power BI
+# 📊 Blinkit Sales and Growth Dashboard using Power BI
 
-## 📌 Description
+An insightful, interactive dashboard built using Power BI that visualizes Blinkit’s sales performance and growth trajectory. This project, developed as part of a final-year academic submission, highlights how business intelligence can enable data-driven decision-making.
 
-The **Blinkit Sales and Growth Dashboard** is a business intelligence solution built using **Power BI** to analyze and visualize the sales performance and growth metrics of Blinkit, a fast-growing quick-commerce platform. This project aims to provide real-time, data-driven insights to help stakeholders make informed business decisions.
+---
 
-Through interactive visualizations and KPIs, the dashboard allows users to monitor order trends, customer behavior, product category performance, city-wise growth, and overall revenue generation. The dashboard transforms raw transactional data into actionable insights using advanced DAX calculations and Power Query transformations.
+## 📁 Project Overview
 
-This project was developed as part of a **final year major project** for the B.Tech Computer Science curriculum, focusing on applying data analytics and visualization tools in real-world business scenarios.
+The Blinkit Sales and Growth Dashboard aims to provide actionable insights by analyzing sales performance across different regions, product categories, and time periods. Built with Power BI, it enables stakeholders to interact with data dynamically through filters, slicers, and drill-throughs. This project demonstrates the value of real-time business intelligence in improving strategic decisions, tracking KPIs, and identifying growth opportunities.
 
-## 🎯 Objectives
+---
 
-- To track Blinkit's day-to-day sales and revenue patterns.
-- To visualize customer purchase behavior across various categories.
-- To provide stakeholders with an interactive and responsive dashboard.
-- To utilize Power BI's advanced analytics features (DAX, Power Query).
-- To support strategic planning through clear insights into business performance.
+## 🧰 Technologies Used
 
-## ⚙️ Key Features
+- **Power BI**
+- **Microsoft Excel** – Data source and preprocessing
+- **Power Query** – Data transformation and cleaning
+- **DAX (Data Analysis Expressions)** – Custom metrics and measures
+- **Power BI Desktop** – Dashboard development
 
-- Daily, weekly, and monthly sales trend analysis  
-- Product-wise and city-wise performance comparison  
-- Key metrics: Total Orders, Revenue, Discounts, Growth Rate  
-- Slicer-based filtering by city, product, date, and category  
-- Clean, intuitive user interface for business users  
-- Screenshot snapshots of key visuals embedded in the report  
+---
 
-## 🛠 Technologies Used
+## 📸 Screenshots of Dashboard
 
-- Power BI Desktop
-- Microsoft Excel (Data Source)
-- DAX (Data Analysis Expressions)
-- Power Query (M Language)
+| Sales Overview | Category-wise Sales | Time-based Trends |
+|----------------|---------------------|--------------------|
+| ![Dashboard 1](Screenshot%202025-05-07%20233226.png) | ![Dashboard 2](Screenshot%202025-05-07%20233820.png) | ![Dashboard 3](Screenshot%202025-05-08%20213648.png) |
 
-## 📂 Project Structure
+> The screenshots illustrate various features of the dashboard, including overall sales trends, product-specific analytics, and time-wise comparisons.
 
-```
-Blinkit-Sales-Dashboard/
-├── Dataset/
-│   └── blinkit_sales_data.xlsx
-├── Screenshots/
-│   ├── dashboard_overview.png
-│   ├── category_analysis.png
-│   └── revenue_trend.png
-├── Blinkit_Sales_Dashboard.pbix
-└── README.md
-```
+---
+
+## 🎥 Dashboard Walkthrough
+
+A complete screen recording of the working dashboard will be added soon. The video will walk through:
+- Interactive filtering
+- KPI insights
+- Region/category comparisons
+- Real-time responsiveness of visuals
+
+---
+
+## 📄 Project Documents
+
+Below are key files submitted as part of the final-year academic evaluation:
+
+- 📘 [Final Report (PDF)](final%20report.pdf)
+- 🗂️ [Project Synopsis](Hitesh%20bardia_Synopsis.pdf)
+- 📚 [Research Document](Hiteshbardia_research.pdf)
+- 📽️ [Presentation Slides (PPT)](Hitesh%20Bardia%20ppt.pdf)
+
+> These documents provide detailed insights into the problem statement, methodology, architecture, and research work behind this Power BI dashboard project.
+
+---
+
+## 🔮 Future Scope
+
+- 🔄 **Live Data Integration**: Enable auto-refresh via APIs or cloud services
+- 📱 **Mobile Access**: Optimize dashboards for Power BI Mobile
+- 📊 **Predictive Analytics**: Incorporate forecasting and machine learning
+- 👥 **User-Based Access**: Implement role-specific dashboards
+- ☁️ **Cloud Deployment**: Host on Microsoft Power BI Service with scheduled refresh
+
+---
+
+## 👨‍💻 Developed By
+
+**Hitesh Bardia**  
+B.Tech in Computer Science (2025)  
+Major Project Submission – Power BI Dashboard
+
+---
+
+## 📬 Contact
+
+📧 hiteshbardia@example.com  
+🔗 [LinkedIn Profile](https://linkedin.com/in/hiteshbardia) *(Optional — replace or remove)*
+
+---
+
+## 📌 How to Run This Project
+
+1. Clone or download the repository.
+2. Open the `.pbix` file in **Power BI Desktop**.
+3. Refresh the data connections if needed.
+4. Interact with the dashboard to explore insights.
+
+---
+
+> This repository showcases a real-world application of Power BI in retail analytics, reflecting the importance of visual storytelling in data science.
 
