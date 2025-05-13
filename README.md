@@ -74,7 +74,7 @@ Major Project Submission – Power BI Dashboard
 ## 📬 Contact
 
 📧 hiteshbardia@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/hiteshbardia) *(Optional — replace or remove)*
+
 
 ---
 
