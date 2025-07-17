@@ -73,7 +73,7 @@ Major Project Submission – Power BI Dashboard
 
 ## 📬 Contact
 
-📧 hiteshbardia@example.com  
+📧 hiteshbardia07@gmail.com  
 
 
 ---
